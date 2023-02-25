@@ -1,0 +1,8 @@
+Blue:
+R 30 G 170 B 230
+
+Red:
+R 210 G 10 B 50
+
+White:
+R 255 G 255 B 255
