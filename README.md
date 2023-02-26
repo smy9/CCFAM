@@ -1,6 +1,6 @@
 # CCFAM
 
-<img src="./pictures/application.png" alt="application" style="zoom:45%;" />
+<img src="./pictures/application.png" alt="application" style="zoom:30%;" />
 
 **Minimising Distortion for GAN-based Facial Attribute Manipulation**
 
@@ -64,7 +64,7 @@ python re_direction.py
 
 We borrow a lot from StyleGAN2 implementation:
 
-```shell
+```
 https://github.com/NVlabs/stylegan2
 ```
 
