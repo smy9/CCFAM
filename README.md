@@ -1,6 +1,6 @@
 # CCFAM
 
-<img src="./pictures/application.png" alt="application" style="zoom:30%;" />
+<img src="./pictures/application.png" alt="application" style="zoom:25%;" />
 
 **Minimising Distortion for GAN-based Facial Attribute Manipulation**
 
