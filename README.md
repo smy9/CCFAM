@@ -1,6 +1,6 @@
 # CCFAM
 
-<img src="/Users/shaomingyu/PycharmProjects/CCFAM/pictures/application.png" alt="application" style="zoom:45%;" />
+<img src="./pictures/application.png" alt="application" style="zoom:45%;" />
 
 **Minimising Distortion for GAN-based Facial Attribute Manipulation**
 
